@@ -1,0 +1,23 @@
+/* Sidebar styling */
+.MuiDrawer-paper {
+    background-color: #263238;
+    color: white;
+  }
+  
+  .MuiDrawer-paper .MuiListItemText-root {
+    color: white;
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    .MuiDrawer-paper {
+      width: 200px;
+    }
+  
+    .MuiContainer-root {
+      margin-left: 0 !important;
+    }
+  }
+ 
+  
+  

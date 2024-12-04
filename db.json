@@ -1,0 +1,32 @@
+{
+  "tasks": [
+    {
+      "id": "d276",
+      "title": "Python",
+      "description": "Python  Learning",
+      "completed": true,
+      "dueDate": "2024-12-17"
+    },
+    {
+      "id": "463a",
+      "title": "Java",
+      "description": "Java  Learning beginner level",
+      "completed": false,
+      "dueDate": "2024-12-19"
+    },
+    {
+      "id": "f151",
+      "title": "Java",
+      "description": "Java Advanced Concepts",
+      "completed": false,
+      "dueDate": "2024-12-31"
+    },
+    {
+      "id": "ae8f",
+      "title": "Task Management Project",
+      "description": "Task Management Project Assignment",
+      "completed": false,
+      "dueDate": "2024-12-04"
+    }
+  ]
+}
